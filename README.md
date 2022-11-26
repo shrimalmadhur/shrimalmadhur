@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 - https://explorers-psi.vercel.app/
-- https://www.trendcaster.xyz/
+- https://www.trendcaster.xyz/ (Have not updated to Farcaster V2)
 
 <!--
 **shrimalmadhur/shrimalmadhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
