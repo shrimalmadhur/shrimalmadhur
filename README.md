@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on
+- https://burnyourtoken.vercel.app/
 - https://explorers-psi.vercel.app/
 - https://www.trendcaster.xyz/ (Have not updated to Farcaster V2)
 
