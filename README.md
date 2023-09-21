@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 New Projects 🔭
+- https://www.newzletterz.xyz/
+
+
+Old and Unmaintained
 - Onchain apprecication - https://appreciation-app.vercel.app (supports Ethereum mainnet)
 - https://burnyourtoken.vercel.app/
 - https://explorers-psi.vercel.app/
