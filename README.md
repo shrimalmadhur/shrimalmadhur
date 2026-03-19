@@ -2,7 +2,7 @@
 
 
 Building
-- 🤖 [Jarvis](https://github.com/shrimalmadhur/jarvis) - Your ultimate AI agents companion
+- 🤖 [Dobby](https://github.com/shrimalmadhur/dobby) - Your ultimate AI agents companion
 - 🎙️ [VoxBee](https://www.voxbee.app/) - Offline Private Audio companion for MacOS and Linux
 - 🥗 [Food Realness](https://howrealisyourfood.com/?utm_source=github) - Eat Real Food
 - 💸 [FINalyzer](https://github.com/shrimalmadhur/)
