@@ -2,7 +2,7 @@
 
 
 Building
-- 🎛️ [Headroom](https://shrimalmadhur.gumroad.com/l/headroom) - Keep your Claude limits in check
+- 🎛️ [Headroom](https://shrimalmadhur.gumroad.com/l/headroom) - Keep your Claude/Codex limits in check
 - 🤖 [Dobby](https://github.com/shrimalmadhur/dobby) - Your ultimate AI agents companion
 - 🎙️ [VoxBee](https://www.voxbee.app/) - Offline Private Audio companion for MacOS and Linux
 - 🥗 [Food Realness](https://howrealisyourfood.com/?utm_source=github) - Eat Real Food
