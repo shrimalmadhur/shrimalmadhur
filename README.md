@@ -2,7 +2,7 @@
 
 
 Building
-- 🪐 [Orbit](https://useorbit.ink) - Write Messy, find patterns later. 
+- 🪐 [Orbit](https://useorbit.ink) - Write Messy, find patterns later. (Waitlist mode)
 - 📺 [Screen](https://www.madhurshrimal.com/projects/screen) - Get a pure Swift codebase of a screenshot tool I use. Use it, modify it, sell it. Do whatever you like :)
 - 🎛️ [Headroom](https://shrimalmadhur.gumroad.com/l/headroom) - Keep your Claude/Codex limits in check
 - 📵 [PhoneDown](https://phonedown.io) - Less Doomscrolling, More Focus. Mac App to keep you in check
